@@ -1,0 +1,149 @@
+
+> meteora@0.1.0 build
+> next build
+
+  Ôû▓ Next.js 14.2.3
+
+   Creating an optimized production build ...
+ Ô£ô Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/21) ...
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538) {
+  digest: '2893987280'
+}
+
+Error occurred prerendering page "/it". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538) {
+  digest: '2893987280'
+}
+
+Error occurred prerendering page "/de". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538) {
+  digest: '2893987280'
+}
+
+Error occurred prerendering page "/en". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: `unstable_setRequestLocale` is not supported in Client Components.
+    at C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:19624
+    at C (C:\ANTI\Sito-mio\.next\server\app\[locale]\page.js:16:5483)
+    at nj (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:46251)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47571)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nI (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47010)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:47717)
+    at nM (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:61546)
+    at nN (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:64546)
+    at nB (C:\ANTI\Sito-mio\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:67538)
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+   Generating static pages (5/21) 
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+   Generating static pages (10/21) 
+   Generating static pages (15/21) 
+ Ô£ô Generating static pages (21/21)
+
+> Export encountered errors on following paths:
+	/[locale]/page: /de
+	/[locale]/page: /en
+	/[locale]/page: /it

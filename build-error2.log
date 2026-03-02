@@ -1,0 +1,110 @@
+
+> meteora@0.1.0 build
+> next build
+
+  Ôû▓ Next.js 14.2.3
+
+   Creating an optimized production build ...
+ Ô£ô Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/21) ...
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+   Generating static pages (5/21) 
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+The `locale` parameter in `getRequestConfig` is deprecated, please switch to `await requestLocale`. See https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+
+A `locale` is expected to be returned from `getRequestConfig`, but none was returned. This will be an error in the next major version of next-intl.
+
+See: https://next-intl.dev/blog/next-intl-3-22#await-request-locale
+
+   Generating static pages (10/21) 
+   Generating static pages (15/21) 
+ Ô£ô Generating static pages (21/21)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+Ôöî Ôùï /_not-found                          871 B          87.9 kB
+Ôö£ ÔùÅ /[locale]                            4.65 kB         144 kB
+Ôö£   Ôö£ /it
+Ôö£   Ôö£ /en
+Ôö£   Ôöö /de
+Ôö£ ÔùÅ /[locale]/architettura-cloud         191 B          95.1 kB
+Ôö£   Ôö£ /it/architettura-cloud
+Ôö£   Ôö£ /en/architettura-cloud
+Ôö£   Ôöö /de/architettura-cloud
+Ôö£ ÔùÅ /[locale]/devops                     191 B          95.1 kB
+Ôö£   Ôö£ /it/devops
+Ôö£   Ôö£ /en/devops
+Ôö£   Ôöö /de/devops
+Ôö£ ÔùÅ /[locale]/finops                     191 B          95.1 kB
+Ôö£   Ôö£ /it/finops
+Ôö£   Ôö£ /en/finops
+Ôö£   Ôöö /de/finops
+Ôö£ ÔùÅ /[locale]/security-audit             191 B          95.1 kB
+Ôö£   Ôö£ /it/security-audit
+Ôö£   Ôö£ /en/security-audit
+Ôö£   Ôöö /de/security-audit
+Ôö£ Ôùï /icon.svg                            0 B                0 B
+Ôö£ Ôùï /robots.txt                          0 B                0 B
+Ôöö Ôùï /sitemap.xml                         0 B                0 B
++ First Load JS shared by all            87 kB
+  Ôö£ chunks/23-d6cf187030a632b6.js        31.5 kB
+  Ôö£ chunks/fd9d1056-4a34a032ee45dc19.js  53.6 kB
+  Ôöö other shared chunks (total)          1.89 kB
+
+
+ãÆ Middleware                             40.1 kB
+
+Ôùï  (Static)  prerendered as static content
+ÔùÅ  (SSG)     prerendered as static HTML (uses getStaticProps)
+
