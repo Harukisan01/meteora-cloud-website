@@ -1,0 +1,44 @@
+{
+    "Hero": {
+        "title": "Cloud Infrastructure",
+        "subtitle": "Enterprise-grade cloud architectures designed for CEOs, CTOs, and IT Managers. Zero downtime, maximum performance, and guaranteed cost reduction.",
+        "cta": "Book a Free Cloud Consultation"
+    },
+    "Services": {
+        "title": "Our IT Solutions",
+        "subtitle": "Enterprise technologies tailored to maximize the efficiency and security of your business.",
+        "arch": "Cloud Architecture",
+        "arch_desc": "We design enterprise-grade infrastructures on Amazon Web Services and Microsoft Azure. We migrate your management software to the Cloud and carry out secure migrations with no downtime.",
+        "sec": "Security Audit & Compliance",
+        "sec_desc": "Find vulnerabilities before hackers do. We perform complete audits of your infrastructure to ensure certifications and GDPR compliance.",
+        "fin": "FinOps & Cost Optimization",
+        "fin_desc": "We analyze your current cloud spend and cut hidden waste. Regain control of your IT bills.",
+        "dev": "DevOps & Serverless",
+        "dev_desc": "We automate software release processes and build Serverless architectures that scale from 0 to millions of users without managing servers."
+    },
+    "Creation": {
+        "badge": "Cloud Solution Architecting",
+        "title": "Design & Implementation",
+        "desc": "From idea to Ready-for-Production. We build secure, scalable, and ready-to-use AWS, Azure, and GCP environments.",
+        "p1_title": "Enterprise Landing Zones",
+        "p1_desc": "Automatic Governance, Networking (Hub & Spoke) and Security set-up on AWS and Azure.",
+        "p2_title": "App Modernization",
+        "p2_desc": "Transition from Monoliths to Microservices and Serverless (Lambda / Azure Functions).",
+        "p3_title": "Infrastructure-as-Code Setup",
+        "p3_desc": "Every created resource is documented and managed via Terraform. No manual clicks.",
+        "stack_title": "Tech Stack",
+        "stack_desc": "How we build your Ready-for-Production infrastructure.",
+        "col_sol": "Solution",
+        "col_tech": "Tech Stack",
+        "col_vantaggio": "Competitive Advantage",
+        "c1_v": "Guaranteed 99.99% Uptime locked by contract.",
+        "c2_v": "Agility in application Deployment.",
+        "c3_v": "Cost Optimization: pay only for what you use.",
+        "c4_v": "Automated compliance with no human intervention."
+    },
+    "About": {
+        "badge": "Certified Cloud Architect",
+        "title": "About Me",
+        "desc": "I am a Cloud Architect specializing in designing and securing large-scale infrastructures. In recent years, I have helped dozens of companies migrate to the Cloud, reduce operational costs, and automate releases with Terraform. I am not an agency that delegates work: I design and get my hands dirty personally."
+    }
+}
