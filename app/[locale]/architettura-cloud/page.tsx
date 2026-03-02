@@ -2,8 +2,10 @@ import { Server } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import Link from "next/link";
 import { useLocale } from "next-intl";
+import { unstable_setRequestLocale } from "next-intl/server";
 
-export default function ArchitetturaCloud() {
+export default function ArchitetturaCloud({ params: { locale: paramLocale } }: { params: { locale: string } }) {
+    unstable_setRequestLocale(paramLocale);
     const locale = useLocale();
 
     return (

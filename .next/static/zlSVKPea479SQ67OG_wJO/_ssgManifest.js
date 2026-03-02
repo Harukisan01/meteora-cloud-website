@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[locale]","\u002F[locale]\u002Farchitettura-cloud","\u002F[locale]\u002Fdevops","\u002F[locale]\u002Ffinops","\u002F[locale]\u002Fsecurity-audit"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
